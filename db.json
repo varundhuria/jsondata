@@ -2,7 +2,23 @@
   "users":[
     {
       "id":1,
-      "vacation_balance": "1000"
+      "vacation_balance": "30"
+    },
+    {
+      "id":2,
+      "vacation_balance": "76"
+    },
+    {
+      "id":3,
+      "vacation_balance": "25"
+    },
+    {
+      "id":4,
+      "vacation_balance": "0"
+    },
+    {
+      "id":5,
+      "vacation_balance": "4"
     }
   ]
 }
